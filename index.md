@@ -1,5 +1,5 @@
 ---
-title: "Сычеводство"
+layout: no-title-post
 ---
 
 # Welcome to Сычеводство
