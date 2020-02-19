@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to Сычеводство
 
-You can use the [editor on GitHub](https://github.com/sychevodstvo/sychevodstvo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ты лучше расскажи о себе. И давай сычайди, если хочешь в пин. Это касается всех новичков, кстати
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Вопросы по зарядкам https://switchchargers.com/how-it-works/
 
-### Markdown
+- SW-1104-8752-7522 @dmitry_ermakov
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- SW-6182-4294-7718 @r3nya
 
-```markdown
-Syntax highlighted code block
+- SW-5737-4124-1707 @im_hex
 
-# Header 1
-## Header 2
-### Header 3
+- SW-2012-8330-3165 @morlov
 
-- Bulleted
-- List
+- SW-4682-5002-4340 @lexfrei
 
-1. Numbered
-2. List
+- SW-2963-1357-7013 @v1kun
 
-**Bold** and _Italic_ and `Code` text
+- SW-2050-8052-5748 @Alina_Shukurova
 
-[Link](url) and ![Image](src)
-```
+- SW-7293-8072-5140 @kuyantus
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- SW-3488-8497-9773 @Zichi
 
-### Jekyll Themes
+- SW-3221-5454-3631 Владимир 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sychevodstvo/sychevodstvo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- SW-6831-0853-8212 Arshavina 
 
-### Support or Contact
+- SW-4358-0499-1300 @al1kz
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- SW-4988-3037-9198 @nett00n
+
+- SW-3251-4018-0442 @rozaliev
+- SW-6453-3825-4505 @CursorDriver
+- SW-4042-5532-0639 @qman228
+- SW-3777-9712-8003 @Ice2heart
+- SW-0672-6308-8410 @StereoAlive
+- SW-8159-7585-1499 @Dudraug
+- SW-5093-4069-9225 @Russatus
+- SW-5217-1620-3528 @isqua
+- SW-1123-6167-5432 @Limows 
+- SW-7538-6093-9894 @RoundRobin
+- SW-4600-4810-5723 @ryozombaku 
+- SW-3374-5269-5311 @iw_harper 
+- SW-4281-6531-4824 Vassabu 
+- SW-7330-1649-8411 @dead_sasha 
