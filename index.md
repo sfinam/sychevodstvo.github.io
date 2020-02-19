@@ -1,5 +1,5 @@
 ---
-layout: no-title-post
+title-heading: false
 ---
 
 # Welcome to Сычеводство
