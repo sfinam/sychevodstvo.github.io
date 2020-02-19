@@ -32,3 +32,6 @@
 - SW-4281-6531-4824 Vassabu
 - SW-3221-5454-3631 Владимир
 
+---
+
+[Страница Сычеводства](https://sychevodstvo.github.io/) создана автоматически при помощи [Jekyll](https://jekyllrb.com) и [Github Pages](https://pages.github.com/) из [репозитория](https://github.com/sychevodstvo/sychevodstvo.github.io).
