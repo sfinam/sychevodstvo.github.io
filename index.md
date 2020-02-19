@@ -20,7 +20,6 @@ title: Welcome to Сычеводство
 * SW-8159-7585-1499 [@Dudraug](tg://resolve?domain=Dudraug)
 * SW-3777-9712-8003 [@Ice2heart](tg://resolve?domain=Ice2heart)
 * SW-5737-4124-1707 [@im_hex](tg://resolve?domain=im_hex)
-* SW-5217-1620-3528 [@isqua](tg://resolve?domain=isqua)
 * SW-3374-5269-5311 [@iw_harper ](tg://resolve?domain=iw_harper )
 * SW-7293-8072-5140 [@kuyantus](tg://resolve?domain=kuyantus)
 * SW-4682-5002-4340 [@lexfrei](tg://resolve?domain=lexfrei)
